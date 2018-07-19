@@ -12,6 +12,8 @@ import javafx.stage.Stage;
 
 public class Main extends Application {
 
+    // new added comment
+
     Stage window;
     int row,col;
     public void start(Stage primaryStage) throws Exception{
